@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nidhi
-- 👀 I’m interested in Machine learning, Data Analytics, and Artificial Intelligence.
+- 👀 I’m interested in software development in c++,Machine learning, Data Analytics, and Artificial Intelligence.
 - 🌱 I’m currently doing research on Deep Hedging.
-- 💞️ I’m looking to collaborate on Machine learning project, Devops.
+- 💞️ I’m looking to collaborate on Machine learning project, Devops, and C++ Development.
 - 📫 To reach me rajkotiaanidhi@gmail.com or https://www.linkedin.com/in/nidhi-rajkotia-3623a9116/.
 
 <!---
