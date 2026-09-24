@@ -140,7 +140,7 @@ If you're building AI products or production-grade AI systems, I'd be happy to c
 - 💼 **LinkedIn:** [Nidhi Rajkotia](https://www.linkedin.com/in/nidhi-rajkotia-3623a9116/)
 - 📧 **Email:** [rajkotianidhi@gmail.com](mailto:rajkotianidhi@gmail.com)
 - 💻 **GitHub:** [github.com/nidhzpatel](https://github.com/nidhzpatel)
-- 📱 **WhatsApp:** [Message me on WhatsApp](https://wa.me/+91-7984509849)
+- 📱 **WhatsApp:** [Message me on WhatsApp](https://wa.me/917984509849)
 
 ---
 
